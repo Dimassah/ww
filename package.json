@@ -1,6 +1,6 @@
 {
   "name": "react-1",
-  "homepage": "https://dimassah.github.io/Dweather/",
+  "homepage": "https://dimassah.github.io/ww/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,8 @@
     "react-scripts": "3.4.0"
   },
   "devDependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "^4.4.1",
+    "gh-pages": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
